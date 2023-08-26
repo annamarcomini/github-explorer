@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react"
-import { RepositoryItem } from "./RepositoryItem.jsx" // esse list é o componente pai
+import { RepositoryItem } from "./RepositoryItem"
+// esse list é o componente pai
 
 import "../styles/repositories.scss"
 //https://api.github.com/orgs/rocketseat/repos
@@ -11,6 +12,8 @@ import "../styles/repositories.scss"
   link: "https://github.com/unform/unform",
 } */
  
+
+
 export function RepositoryList() {
   const [repositories, setRepositories] = useState([]) //inicia com um array vazio 
   useEffect(() => {
