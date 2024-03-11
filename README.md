@@ -2,7 +2,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e SASS
+- React e SASS
 - JavaScript
 - Git e Github
 - Babel
