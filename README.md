@@ -15,6 +15,7 @@ O GitHub Explorer foi desenvolvido para ser um exibidor de repósitórios que ex
 
 ## 🔖 Como executar em sua máquina
 - Baixe o código
+- Execute o comando Yarn
 - Execute o comando Yarn Dev
 - Se preferir, pode mudar o nome do perfil no link da Api do Git Hub, que se encontra no arquivo "Repository list"
 
